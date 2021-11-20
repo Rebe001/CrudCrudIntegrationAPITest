@@ -10,7 +10,7 @@
 * [Author](#author)
 
 ## Introduction
-This project is a part of CRUD API REST demo. Please visit [test plan](https://github.com/Rebe001/CrudCrudUnitTestPostman) and [unit test](https://github.com/Rebe001/CrudCrudUnitTestPostman) for more details.
+This project is a part of CRUD API REST demo. Please visit [test plan](https://github.com/Rebe001/Testplan_CrudCrud) and [unit test](https://github.com/Rebe001/CrudCrudUnitTestPostman) for more details.
 
 This maven project is to automate integration tests for the API Rest. API creation is supported by Crud Crud http://crudcrud.com, and resources `chargers` has been created.
 Here are the list of APIs that will be tested in this project:
